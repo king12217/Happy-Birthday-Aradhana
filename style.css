@@ -1,0 +1,17 @@
+body {
+    background: radial-gradient(circle, #ff758c, #ff7eb3);
+    text-align: center;
+    color: white;
+    font-family: 'Arial', sans-serif;
+}
+.container {
+    margin-top: 20%;
+}
+button {
+    background: #ff4081;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
